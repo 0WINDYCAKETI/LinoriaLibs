@@ -1,7 +1,7 @@
 local httpService = game:GetService('HttpService')
 
 local SaveManager = {} do
-	SaveManager.Folder = 'Azuner'
+	SaveManager.Folder = 'AzunerSetting'
 	SaveManager.Ignore = {}
 	SaveManager.Parser = {
 		Toggle = {
